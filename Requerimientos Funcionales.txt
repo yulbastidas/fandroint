@@ -1,0 +1,20 @@
+Requerimientos Funcionales  
+1. Creación de Cuenta de Usuario - Los clientes deben poder crear una cuenta de usuario en la plataforma parala compra de las aplicaciones 
+ - Deben proporcionar información obligatoria de los datos de su tarjeta de crédito al crear la cuenta ( marca, número de tarjeta, vencimiento y código de verificación). 
+2. Asociación de Tarjeta de Crédito - Los usuarios deben ser capaces de asociar y registrar su información de tarjeta de crédito a su cuenta de usuario.
+ - Esta información se almacena en la plataforma para su uso posterior en cada una de las compras siguientes.
+3. Compra de Aplicaciones - Los usuarios pueden adquirir aplicaciones desde sus respectivos dispositivos. 
+- El sistema debe permitir a los usuarios seleccionar una aplicación y procesar la debida compra utilizando la información, los datos de su tarjeta de crédito almacenada.   
+4. Consultar y Modificar Información Personal - Los usuarios deben poder acceder y visualizar su información personal almacenada en la plataforma. 
+- Los usuarios deben tener la opción de modificar su información personal si es necesario, en caso de cualquier error, perdida o cambio de datos.  
+ 5. Acumulación de Puntos por Compras - Después de realizar varias compras, los usuarios deben acumular puntos, a tal que puedan redimirlos en función del valor de las transacciones.   
+6. Canje de Puntos por Premios - Los usuarios deben tener la capacidad de canjear los puntos acumulados de cada compra y poder intercambiarlos por premios físicos.
+ - El canje debe ser validado telefónicamente respectivamente por un Ejecutivo de Canjes.  
+7. Emisión de Certificados Canjeables - El Ejecutivo de Canjes debe emitir certificados canjeables en tiendas de retail después de validar estos puntos para realizar el canje de puntos por premios. 
+Requerimientos No Funcionales   
+1.Seguridad de Datos - La información de la tarjeta de crédito y los datos personales deben ser almacenados y transmitidos de manera segura para proteger la respectiva privacidad del usuario y no exponerlo. 
+ 2.Disponibilidad del Sistema - La plataforma debe estar disponible y accesible para los usuarios en cualquier momento del día, sin interrupciones no planificadas en el uso de esta.
+3.Rendimiento Eficiente - El sistema debe ser capaz de manejar un gran número de usuarios y transacciones simultáneas sin ningún bajo rendimiento significativo del programa.  
+4. Facilidad de Uso - La interfaz de usuario debe ser intuitiva y fácil de usar, permitiendo a todos los usuarios navegar, realizar compras y canjear puntos sin dificultades, de una manera eficaz y rápida.
+5. Validación Telefónica Eficiente - El proceso de validación telefónica para el canje de puntos debe ser rápido y eficiente para brindar una experiencia satisfactoria al usuario, sin esperas y con un buen trato.
+6. Cumplimiento de Normativas - La plataforma debe cumplir con las regulaciones y estándares de seguridad de la industria relacionados con el almacenamiento y procesamiento de datos de tarjetas de crédito, donde se tenga en cuenta la buena seguridad para evitar cualquier contratiempo con los datos de los clientes. 
